@@ -1,0 +1,25 @@
+{
+  "name": "curso_node_js",
+  "version": "1.0.0",
+  "description": "site de notícias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acebeR/curso_node_js.git"
+  },
+  "author": "Rebeca Carvalhedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acebeR/curso_node_js/issues"
+  },
+  "homepage": "https://github.com/acebeR/curso_node_js#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "save": "^2.5.0"
+  }
+}
