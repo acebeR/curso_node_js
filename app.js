@@ -1,17 +1,11 @@
-var express = require('express');
-var app = express();
+var app = require('./config/server');
 
-app.set('view engine','ejs');
+var rotaNoticias = require('./app/routes/noticias')(app);
 
-app.get('/', function(req,res){
-    res.render("home/index");
-});
-app.get('/formulario', function(req,res){
-    res.render("admin/formulario");
-});
-app.get('/noticias', function(req,res){
-    res.render("noticias/noticias");
-});
+var rotaHome = require('./app/routes/home')(app);
+
+var rotaFormInclusaoNoticia = require('./app/routes/form_inclusao_noticia')(app);
+
 app.listen(3000, function(){
-    console.log('rodando...');
+    console.log("Servidor ON");
 });
