@@ -15,6 +15,6 @@ module.exports = function(app){
             res.send(result);
         });
 
-        //res.render('noticias/noticias');
+        // res.render('noticias/noticias');
     });
 }
