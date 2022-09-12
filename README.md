@@ -7,6 +7,8 @@
 - EJS 3.1.8
 - Nodemon
 - MySQL
+- Consign (Melhorar rotas)
+- Body parser (Passar corpo entre telas)
 
 # Comandos
 - nodemon app
