@@ -9,7 +9,8 @@
 - MySQL
 - Consign (Melhorar rotas)
 - Body parser (Passar corpo entre telas)
-
+# Designer Pattern 
+- MVC ( Model-View-Controller )
 # Comandos
 - nodemon app
 
