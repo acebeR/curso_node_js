@@ -1,5 +1,6 @@
-# curso_node_js
+# Site de notícias
 
+<img src="https://github.com/acebeR/curso_node_js/blob/main/img/gif.gif?raw=true"   alt=""/>
 
 # Tecnologias
 - Node JS
