@@ -16,8 +16,10 @@
 
 # Telas
 - Index
+![image](https://user-images.githubusercontent.com/33354360/189710075-a66d4039-9e7a-46f1-b301-c42f3cdeb719.png)
 
 - Cadastro
+![image](https://user-images.githubusercontent.com/33354360/189710110-4f577c13-2da8-4ee6-9a29-7ee640c10017.png)
 
 
 - Pegando dados no banco
